@@ -1,1 +1,1 @@
-# Coder_Duette
+Hola, buenas. Con la consigna ya entregada, quiero explicar brevemente la idea del trabajo. 'AlwaysHigh' sería un dispensario de marihuana. El modelo se basa en un esquema estrella, donde la tabla de hechos, que lleva el nombre de la empresa, se relaciona en una proporción '1 a *' con varias tablas normalizadas que representan los diferentes aspectos de la administración del dispensario. Saludos! LD.
